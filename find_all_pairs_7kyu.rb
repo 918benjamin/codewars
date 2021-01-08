@@ -1,5 +1,6 @@
 =begin
-Find all pairs
+Find all pairs (7kyu)
+https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3/train/ruby
 
 You are given an array of integers, your task will be to count all pairs in that
 array and return their count.
